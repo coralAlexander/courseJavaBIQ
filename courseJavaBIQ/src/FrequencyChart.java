@@ -9,7 +9,7 @@ public class FrequencyChart {
         int[] frequencies = calcCharFrequency(args);
         printBarChart(frequencies);
     }
-
+//ffgfgffgfgfgfgf
     private static int[] calcCharFrequency(String[] args) {
         int[] frequencies = new int['Z' - 'A' + 1];
         for(String s : args) {
