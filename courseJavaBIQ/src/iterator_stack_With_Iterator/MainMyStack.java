@@ -22,8 +22,6 @@ public class MainMyStack {
             while(itr.hasNext()) {
                 System.out.println(itr.next());
             }
-
-
         }catch (MyException e){}
     }
 }
