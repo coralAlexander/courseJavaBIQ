@@ -1,4 +1,4 @@
-package recursion_binaryTree;
+package recursion_binaryTree_with_Generic;
 
 public class BinaryTree<E extends Comparable<E>> {
 
