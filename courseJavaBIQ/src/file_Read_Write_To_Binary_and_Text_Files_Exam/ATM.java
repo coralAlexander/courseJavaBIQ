@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 
-public class ATM {
+public class ATM  {
 
 	
 private static final long SerialVersionID = 1L;

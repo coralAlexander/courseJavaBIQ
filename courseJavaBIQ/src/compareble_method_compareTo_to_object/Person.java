@@ -22,9 +22,5 @@ public String toString() {
 public int compareTo(Person o) {
 	int compareVal = name.compareTo(o.name);
 	return compareVal == 0? age - o.age : compareVal;
-
    }
-
-
-
 }

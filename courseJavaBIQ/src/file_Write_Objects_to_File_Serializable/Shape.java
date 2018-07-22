@@ -1,4 +1,4 @@
-package file_Write_Objects_to_File;
+package file_Write_Objects_to_File_Serializable;
 
 import java.io.Serializable;
 

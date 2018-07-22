@@ -22,7 +22,7 @@ public class readFromFile {
 			//writer = new BufferedWriter(new FileWriter(toPath));
 			
 		String str;
-			while((str= in.readLine()) !=null) {
+			while((str = in.readLine()) !=null) {
 				System.out.println(str.toUpperCase());
 			}
 			
