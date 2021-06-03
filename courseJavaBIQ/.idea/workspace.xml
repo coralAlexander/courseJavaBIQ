@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdb551a4-c2d5-48e9-976d-8a9c9b960431" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/int_is_palidrome_linked_list/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/int_maxdepthoftree/TreeNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/int_numer_of_repeates/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/int_print_in_order_reentrantlock/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/int_remove_duplicates_from_sorted_list/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/int_remove_duplicates_from_sorted_list/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/int_reverse_integer/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/int_reverse_linked_list/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/int_reverse_linked_list/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/int_semetric_trees/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/int_semetric_trees/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiThread/PrintNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/random_stream_API/RandomShuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse_Massive/ReverseMassive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringBuilder/StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sumOfTwoElementsEquelsTargetSum/SumEqualsTargetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/courseJavaBIQ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/courseJavaBIQ.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/banchmark/Benchmark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banchmark/Benchmark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes_Food/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes_Food/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compareble_method_compareTo_to_object/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/compareble_method_compareTo_to_object/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_Struction_linkedlist/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_Struction_linkedlist/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_Struction_linkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_Struction_linkedlist/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enum_atmWithEnum/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enum_atmWithEnum/ATM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enum_atmWithEnum/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enum_atmWithEnum/Bill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_Divided_by_7/Devided7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_Divided_by_7/Devided7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_FrequencyChart/FrequencyChart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_FrequencyChart/FrequencyChart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_PrimeNum/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_PrimeNum/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file_readWriteFile/ReadWriteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_readWriteFile/ReadWriteFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hashCode_data_Struction_linkedlist_MapObject_By_Key/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashCode_data_Struction_linkedlist_MapObject_By_Key/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jdbcDAO/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdbcDAO/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/junit_basic/JunitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junit_basic/JunitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modolu_Sum_Of_Digits/FlowControl24Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modolu_Sum_Of_Digits/FlowControl24Digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multiThread/MainMultiThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multiThread/MainMultiThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multiThread_Atomic_Var/AtomicCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multiThread_Atomic_Var/AtomicCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multiThread_Atomic_Var/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multiThread_Atomic_Var/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multiThread_Atomic_Var/MainAtomicVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multiThread_Atomic_Var/MainAtomicVar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multiThread_BlockingStack/BlockingStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multiThread_BlockingStack/BlockingStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/network_Client_Server_MultiThreaded/MainClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/network_Client_Server_MultiThreaded/MainClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion_Hanoi_Tower/HanoiTowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion_Hanoi_Tower/HanoiTowers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion_binaryTree_with_Generic/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion_binaryTree_with_Generic/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion_binaryTree_with_Generic/TreeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion_binaryTree_with_Generic/TreeMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion_exercise_factorial/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion_exercise_factorial/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion_exercise_factorial/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion_exercise_factorial/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion_exercise_fibonicci/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion_exercise_fibonicci/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion_exercise_fibonicci/FibonacciMy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion_exercise_fibonicci/FibonacciMy.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>start</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1h96UU8Hj9b7QR2sHRIWTGkdcTt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/multiThread" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="multiThread" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="int_is_palidrome_linked_list" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="int_semetric_trees.Main" />
+      <module name="courseJavaBIQ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="int_semetric_trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxDepthOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="int_maxdepthoftree.MaxDepthOfBinaryTree" />
+      <module name="courseJavaBIQ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="int_maxdepthoftree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomShuffle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="random_stream_API.RandomShuffle" />
+      <module name="courseJavaBIQ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="random_stream_API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="int_reverse_linked_list.Solution" />
+      <module name="courseJavaBIQ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="int_reverse_linked_list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="int_reverse_integer.Solution" />
+      <module name="courseJavaBIQ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="int_reverse_integer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="int_numer_of_repeates.Solution" />
+      <module name="courseJavaBIQ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="int_numer_of_repeates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cover-tests-run-courseJavaBIQ" type="JUnit" factoryName="JUnit">
+      <module name="courseJavaBIQ" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MaxDepthOfBinaryTree" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.RandomShuffle" />
+      <item itemvalue="JUnit.cover-tests-run-courseJavaBIQ" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.RandomShuffle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdb551a4-c2d5-48e9-976d-8a9c9b960431" name="Default" comment="" />
+      <created>1541583034634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541583034634</updated>
+      <workItem from="1541583046280" duration="639000" />
+      <workItem from="1541963993408" duration="589000" />
+      <workItem from="1541964671036" duration="4667000" />
+      <workItem from="1542000777763" duration="2485000" />
+      <workItem from="1542792871256" duration="653000" />
+      <workItem from="1543053817359" duration="3735000" />
+      <workItem from="1544037038111" duration="8577000" />
+      <workItem from="1544164430818" duration="22854000" />
+      <workItem from="1545067643942" duration="2771000" />
+      <workItem from="1547381400285" duration="633000" />
+      <workItem from="1553364887140" duration="3924000" />
+      <workItem from="1553704531239" duration="4656000" />
+      <workItem from="1554484776721" duration="426000" />
+      <workItem from="1554728414471" duration="618000" />
+      <workItem from="1554729792244" duration="1369000" />
+      <workItem from="1560882318843" duration="1317000" />
+      <workItem from="1599410978262" duration="6633000" />
+      <workItem from="1599464988356" duration="2441000" />
+      <workItem from="1599591445550" duration="4078000" />
+      <workItem from="1599676681284" duration="825000" />
+      <workItem from="1599715953570" duration="6000" />
+      <workItem from="1607931026997" duration="3805000" />
+      <workItem from="1608057459741" duration="2202000" />
+      <workItem from="1608145841802" duration="1030000" />
+      <workItem from="1608467045785" duration="3583000" />
+      <workItem from="1608489463662" duration="2918000" />
+      <workItem from="1609702864169" duration="4612000" />
+      <workItem from="1609743998500" duration="1825000" />
+      <workItem from="1609877931395" duration="1751000" />
+      <workItem from="1612977255788" duration="2202000" />
+      <workItem from="1613296263878" duration="857000" />
+      <workItem from="1613396287773" duration="2645000" />
+      <workItem from="1614973327502" duration="1919000" />
+      <workItem from="1621175078907" duration="57000" />
+      <workItem from="1621175270703" duration="99000" />
+      <workItem from="1621175504644" duration="4917000" />
+      <workItem from="1621326650309" duration="78000" />
+      <workItem from="1621502122183" duration="3971000" />
+      <workItem from="1622480475261" duration="4131000" />
+      <workItem from="1622484626229" duration="588000" />
+      <workItem from="1622485233821" duration="3971000" />
+      <workItem from="1622720900147" duration="11599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JunitTest_test2 - 2018.11.11 at 22h 37m 33s.xml">
+      <configuration name="JunitTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitTest_test2 - 2018.11.11 at 22h 39m 10s.xml">
+      <configuration name="JunitTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitTest - 2018.11.11 at 22h 39m 54s.xml">
+      <configuration name="JunitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitTest - 2018.11.11 at 22h 41m 00s.xml">
+      <configuration name="JunitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitTest_test2 - 2018.11.11 at 22h 42m 01s.xml">
+      <configuration name="JunitTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitTest_test2 - 2018.11.11 at 22h 44m 03s.xml">
+      <configuration name="JunitTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitTest_test2 - 2018.11.11 at 22h 48m 07s.xml">
+      <configuration name="JunitTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitTest_test2 - 2018.11.11 at 22h 49m 48s.xml">
+      <configuration name="JunitTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitTest_test2 - 2018.11.12 at 19h 01m 26s.xml">
+      <configuration name="JunitTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitTest - 2018.11.24 at 12h 04m 16s.xml">
+      <configuration name="JunitTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/compareble_method_compareTo_to_object/CompareToMain.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_Struction_linkedlist/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise_elections_from_Exam/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise_Divided_by_7/Devided7.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/questrionsFromProbLib/sumThreeDifferentWays.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/questrionsFromProbLib/BubbleSort.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/recursion_exercise_fibonicci/Fibonacci.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/recursion_exercise_factorial/Factorial.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/recursion_exercise_factorial/Recursion.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/network_Client_Server_MultiThreaded/MainServer.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jacksonJson/MainTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/recursion_Hanoi_Tower/HanoiTowers.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/recursion_Hanoi_Tower/HanoiTowers.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/recursion_Hanoi_Tower/HanoiTowers.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/recursion_Hanoi_Tower/HanoiTowers.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/multiThread_Atomic_Var/MainAtomicVar.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/questrionsFromProbLib/BubbleSort.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/multiThreadJThreadExtends/JThread.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/multiThreadJThreadExtends/Program.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/multiThread/MainMultiThread.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/reverse_Massive/ReverseMassive.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise_Divided_by_7/Devided7.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise_Divided_by_7/Devided7.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise_palidromic/array8.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise_palidromic/array8.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/int_maxdepthoftree/MaxDepthOfBinaryTree.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/int_reverse_integer/Solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>courseJavaBIQ</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
