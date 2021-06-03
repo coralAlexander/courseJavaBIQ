@@ -2,7 +2,7 @@ package recursion_binaryTree_with_Generic;
 
 public class TreeMain {
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         BinaryTree<Integer> tree = new BinaryTree<>();
         tree.add(70);
         tree.add(702);
@@ -24,6 +24,6 @@ public class TreeMain {
         tree2.add("doing");
         tree2.add("today");
         System.out.println(tree2);
-    }
+    }*/
 
 }

@@ -2,7 +2,7 @@ package recursion_binaryTree_with_Generic;
 
 public class BinaryTree<E extends Comparable<E>> {
 
-    TreeNode<E> root;
+    /*public TreeNode<E> root;
 
     public void add(E val) {
         TreeNode<E> newNode = new TreeNode<>(val);
@@ -12,10 +12,10 @@ public class BinaryTree<E extends Comparable<E>> {
         else {
             root.add(newNode);
         }
-    }
+    }*/
 
-    @Override
+  /*  @Override
     public String toString() {
         return "[" + (root!=null? root.toString()+"\b\b" :"") + "]";
-    }
+    }*/
 }

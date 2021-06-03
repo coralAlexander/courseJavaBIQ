@@ -10,7 +10,8 @@ public enum Bill {
     private int width;
     private int height;
 
-    private Bill(int monetaryValue, int width, int height) {
+
+    Bill(int monetaryValue, int width, int height) {
         this.monetaryValue = monetaryValue;
         this.width = width;
         this.height = height;

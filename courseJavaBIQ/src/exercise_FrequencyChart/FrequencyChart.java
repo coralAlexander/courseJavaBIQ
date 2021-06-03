@@ -1,19 +1,27 @@
 package exercise_FrequencyChart;
 
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class FrequencyChart {
 
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(args));
-        int[] frequencies = calcCharFrequency(args);
+
+        String list [] = {"sdsd","dsds","dsd","aaaaaaa"};
+
+        System.out.println(Arrays.toString(list));
+
+        int[] frequencies = calcCharFrequency(list);
+
         printBarChart(frequencies);
     }
-//ffgfgffgfgfgfgf
-    private static int[] calcCharFrequency(String[] args) {
+
+
+    private static int[] calcCharFrequency(String[] list) {
         int[] frequencies = new int['Z' - 'A' + 1];
-        for(String s : args) {
+        for(String s : list) {
             for(int i = 0; i<s.length(); ++i) {
                 char theChar = Character.toUpperCase(s.charAt(i));
                 if(theChar >= 'A' && theChar <= 'Z') {
@@ -35,5 +43,4 @@ public class FrequencyChart {
             }
         }
     }
-
 }

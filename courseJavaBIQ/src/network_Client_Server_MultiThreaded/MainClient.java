@@ -35,8 +35,6 @@ public class MainClient {
 			catch (Exception e) {
 				// log and ignore
 			}
-			
 		}
 	}
-
 }

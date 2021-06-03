@@ -12,7 +12,7 @@ public class FlowControl24Digits {
 			number =number/10;	
 			count++;	
 		}
-        System.out.println(count + " "+  sum);
+        System.out.println("Counter :"+count + " " +"sumThreeDifferentWays :"+ sum);
 	}
 
 }

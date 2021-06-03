@@ -1,23 +1,14 @@
 package data_Struction_linkedlist;
 
-public class Node {
+import lombok.Getter;
+import lombok.Setter;
 
+@Getter
+@Setter
+public class Node {
     private int value;
     private Node next;
 
-    public Node(int value) {
-        this.value = value;
-    }
-
-    public int getValue() {
-        return value;
-    }
-
-    public Node getNext() {
-        return next;
-    }
-
-    public void setNext(Node next) {
-        this.next = next;
+    public Node(int num) {
     }
 }

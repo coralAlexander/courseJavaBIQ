@@ -6,12 +6,12 @@ public class MyList {
 
     public void add(int num) {
         Node newNode = new Node(num);
-        if(first == null) {
+        if (first == null) {
             first = newNode;
         }
         else {
             Node curr = first;
-            while(curr.getNext() != null) {
+            while (curr.getNext() != null) {
                 curr = curr.getNext();
             }
             curr.setNext(newNode);
@@ -22,7 +22,7 @@ public class MyList {
     public String toString() {
         StringBuilder s = new StringBuilder();
         Node curr = first;
-        while(curr != null) {
+        while (curr != null) {
             s.append(curr.getValue());
             s.append(' ');
             curr = curr.getNext();

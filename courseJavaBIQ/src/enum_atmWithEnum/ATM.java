@@ -19,7 +19,7 @@ public class ATM {
     }
 
     public static Map<Bill,Integer> calcTotal() {
-		Map<Bill,Integer> totalAmount =new HashMap<>();
+		Map<Bill,Integer> totalAmount = new HashMap<>();
     	
     	for (Entry<Bill, Integer> currBillSet : bills2amount.entrySet()) {
 			

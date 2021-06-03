@@ -3,7 +3,7 @@ package recursion_exercise_fibonicci;
 public class FibonacciMy {
 
 	public static int fibo(int num) {
-		if (num==1||num==2) {
+		if (num == 1|| num == 2) {
 			return 1;
 		}
 		else {
@@ -16,7 +16,7 @@ public class FibonacciMy {
 	
 	public static void main(String[] args) {
 		
-       for(int i=1 ; i < 10 ; i++) {
+       for(int i=1 ; i < 8 ; i++) {
     	  
        int result = fibo(i);
            

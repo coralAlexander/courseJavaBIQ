@@ -12,11 +12,9 @@ public class JunitTest {
 
     @Test
     public void test1() {
-   
         Map<String ,Integer> map = new HashMap<>();
         Integer num = 1 ;
         map.put("Alex", num);
-        
         assertEquals("My test should be ok ",map.get("Alex"), num);
     }
     

@@ -13,7 +13,8 @@ public class Benchmark {
 	static private String test3() {
 		
 		return null; /* your code here */ }	
-	static void benchmark(Supplier<String> method) {
+
+		static void benchmark(Supplier<String> method) {
 		long start = System.nanoTime();
 		for(int i = 0; i < 1_000_000; ++i) {
 			method.get();

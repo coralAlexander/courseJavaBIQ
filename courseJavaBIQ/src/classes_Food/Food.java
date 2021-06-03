@@ -21,8 +21,6 @@ public class Food {
 	
 	public Food totalOfFood(String name) {
 		for(Entry<Food, Integer> currFood : foodMap.entrySet()) {
-			
-			
 		}
 		return null;	
 	}
