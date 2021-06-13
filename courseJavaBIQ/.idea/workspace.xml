@@ -4,59 +4,37 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdb551a4-c2d5-48e9-976d-8a9c9b960431" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/int_is_palidrome_linked_list/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/int_maxdepthoftree/TreeNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/int_numer_of_repeates/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/int_print_in_order_reentrantlock/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/int_remove_duplicates_from_sorted_list/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/int_remove_duplicates_from_sorted_list/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/int_reverse_integer/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/int_reverse_linked_list/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/int_reverse_linked_list/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/int_semetric_trees/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/int_semetric_trees/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiThread/PrintNumbersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/random_stream_API/RandomShuffle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverse_Massive/ReverseMassive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringBuilder/StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumOfTwoElementsEquelsTargetSum/SumEqualsTargetSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/courseJavaBIQ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/courseJavaBIQ.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banchmark/Benchmark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banchmark/Benchmark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes_Food/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes_Food/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compareble_method_compareTo_to_object/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/compareble_method_compareTo_to_object/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_Struction_linkedlist/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_Struction_linkedlist/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_Struction_linkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_Struction_linkedlist/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/enum_atmWithEnum/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enum_atmWithEnum/ATM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/enum_atmWithEnum/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enum_atmWithEnum/Bill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise_Divided_by_7/Devided7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_Divided_by_7/Devided7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise_FrequencyChart/FrequencyChart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_FrequencyChart/FrequencyChart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise_PrimeNum/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_PrimeNum/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file_readWriteFile/ReadWriteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_readWriteFile/ReadWriteFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hashCode_data_Struction_linkedlist_MapObject_By_Key/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashCode_data_Struction_linkedlist_MapObject_By_Key/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jdbcDAO/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdbcDAO/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/junit_basic/JunitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junit_basic/JunitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modolu_Sum_Of_Digits/FlowControl24Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modolu_Sum_Of_Digits/FlowControl24Digits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multiThread/MainMultiThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multiThread/MainMultiThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multiThread_Atomic_Var/AtomicCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multiThread_Atomic_Var/AtomicCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multiThread_Atomic_Var/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multiThread_Atomic_Var/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multiThread_Atomic_Var/MainAtomicVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multiThread_Atomic_Var/MainAtomicVar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multiThread_BlockingStack/BlockingStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multiThread_BlockingStack/BlockingStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/network_Client_Server_MultiThreaded/MainClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/network_Client_Server_MultiThreaded/MainClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion_Hanoi_Tower/HanoiTowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion_Hanoi_Tower/HanoiTowers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion_binaryTree_with_Generic/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion_binaryTree_with_Generic/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion_binaryTree_with_Generic/TreeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion_binaryTree_with_Generic/TreeMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion_exercise_factorial/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion_exercise_factorial/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion_exercise_factorial/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion_exercise_factorial/Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion_exercise_fibonicci/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion_exercise_fibonicci/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion_exercise_fibonicci/FibonacciMy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion_exercise_fibonicci/FibonacciMy.java" afterDir="false" />
+    <list default="true" id="bdb551a4-c2d5-48e9-976d-8a9c9b960431" name="Default" comment="3/6 v2">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diningphilolsophers/algo1/DiningPhilosophersApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diningphilolsophers/algo1/Philosopher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diningphilolsophers/algo2/DiningPhilosophers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/int_is_same_tree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/int_is_same_tree/TreeNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/int_maxdepthoftree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/int_stream_api/GroupingBy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jmm/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jmm/atomicity/FasterCountingThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jmm/atomicity/IncorrectCountingThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jmm/atomicity/SlowCountingThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jmm/reordering/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jmm/visibility/VolatileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/ClassLoadersExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/DirectMemoryAlloc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/GCExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/MemoryMappedFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/StringBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/leak/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/leak/ArticleCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/leak/ArticleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/leak/ArticleDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/leak/ArticleId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/leak/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_Sort_and_Count/sortAndCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_Sort_and_Count/sortAndCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sumOfTwoElementsEquelsTargetSum/SumEqualsTargetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/int_sumOfTwoElementsEquelsTargetSum/SumEqualsTargetSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,13 +87,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/multiThread" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -124,6 +106,9 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Course\courseJavaBIQ\courseJavaBIQ\src" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -131,31 +116,18 @@
       <recent name="multiThread" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="int_is_same_tree" />
       <recent name="int_is_palidrome_linked_list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="int_semetric_trees.Main" />
+  <component name="RunManager" selected="Application.sortAndCount">
+    <configuration name="GroupingBy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="int_stream_api.GroupingBy" />
       <module name="courseJavaBIQ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="int_semetric_trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxDepthOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="int_maxdepthoftree.MaxDepthOfBinaryTree" />
-      <module name="courseJavaBIQ" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="int_maxdepthoftree.*" />
+          <option name="PATTERN" value="int_stream_api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,34 +142,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="random_stream_API.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="int_reverse_linked_list.Solution" />
-      <module name="courseJavaBIQ" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="int_reverse_linked_list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="int_reverse_integer.Solution" />
-      <module name="courseJavaBIQ" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="int_reverse_integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,6 +169,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="array8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise_palidromic.array8" />
+      <module name="courseJavaBIQ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise_palidromic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sortAndCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise_Sort_and_Count.sortAndCount" />
+      <module name="courseJavaBIQ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise_Sort_and_Count.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -232,6 +204,23 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass.goodTestNumberInRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="courseJavaBIQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit_Test_for_NumCollection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit_Test_for_NumCollection" />
+      <option name="MAIN_CLASS_NAME" value="junit_Test_for_NumCollection.TestClass" />
+      <option name="METHOD_NAME" value="goodTestNumberInRange" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -261,19 +250,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MaxDepthOfBinaryTree" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.RandomShuffle" />
+      <item itemvalue="Application.array8" />
+      <item itemvalue="Application.GroupingBy" />
+      <item itemvalue="Application.sortAndCount" />
       <item itemvalue="JUnit.cover-tests-run-courseJavaBIQ" />
-      <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.TestClass.goodTestNumberInRange" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.sortAndCount" />
+        <item itemvalue="Application.GroupingBy" />
+        <item itemvalue="Application.array8" />
+        <item itemvalue="JUnit.TestClass.goodTestNumberInRange" />
         <item itemvalue="Application.RandomShuffle" />
       </list>
     </recent_temporary>
@@ -327,8 +317,33 @@
       <workItem from="1622480475261" duration="4131000" />
       <workItem from="1622484626229" duration="588000" />
       <workItem from="1622485233821" duration="3971000" />
-      <workItem from="1622720900147" duration="11599000" />
+      <workItem from="1622720900147" duration="21062000" />
+      <workItem from="1622965092958" duration="4114000" />
+      <workItem from="1622969965791" duration="7000" />
+      <workItem from="1622970288975" duration="7439000" />
     </task>
+    <task id="LOCAL-00001" summary="Last updated">
+      <created>1622738125021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622738125021</updated>
+    </task>
+    <task id="LOCAL-00002" summary="3/6">
+      <created>1622738358843</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622738358843</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3/6 v2">
+      <created>1622738375511</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622738375511</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -375,6 +390,12 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Last updated" />
+    <MESSAGE value="3/6" />
+    <MESSAGE value="3/6 v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/6 v2" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -399,16 +420,6 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/questrionsFromProbLib/sumThreeDifferentWays.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/questrionsFromProbLib/BubbleSort.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/recursion_exercise_fibonicci/Fibonacci.java</url>
           <line>14</line>
           <option name="timeStamp" value="14" />
@@ -427,11 +438,6 @@
           <url>file://$PROJECT_DIR$/src/network_Client_Server_MultiThreaded/MainServer.java</url>
           <line>31</line>
           <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/jacksonJson/MainTest.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/recursion_Hanoi_Tower/HanoiTowers.java</url>
@@ -457,21 +463,6 @@
           <url>file://$PROJECT_DIR$/src/multiThread_Atomic_Var/MainAtomicVar.java</url>
           <line>18</line>
           <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/questrionsFromProbLib/BubbleSort.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/multiThreadJThreadExtends/JThread.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/multiThreadJThreadExtends/Program.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/multiThread/MainMultiThread.java</url>
@@ -504,14 +495,24 @@
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/int_maxdepthoftree/MaxDepthOfBinaryTree.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/int_reverse_integer/Solution.java</url>
           <line>13</line>
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/int_maxdepthoftree/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/random_stream_API/RandomShuffle.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise_Sort_and_Count/sortAndCount.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="51" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

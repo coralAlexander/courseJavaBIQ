@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/diningphilolsophers/algo1/DiningPhilosophersApp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/diningphilolsophers/algo1/Philosopher.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/diningphilolsophers/algo2/DiningPhilosophers.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/jmm/Utils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/jmm/atomicity/FasterCountingThreads.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/jmm/atomicity/IncorrectCountingThreads.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/jmm/atomicity/SlowCountingThreads.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/jmm/reordering/Singleton.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/jmm/visibility/VolatileExample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/memory/ClassLoadersExample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/memory/DirectMemoryAlloc.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/memory/GCExample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/memory/MemoryMappedFile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/memory/StringBox.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/memory/leak/Article.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/memory/leak/ArticleCache.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/memory/leak/ArticleController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/memory/leak/ArticleDatabase.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/memory/leak/ArticleId.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/memory/leak/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/selenium/Main.java" charset="UTF-8" />
     <file url="PROJECT" charset="windows-1252" />
   </component>
 </project>
